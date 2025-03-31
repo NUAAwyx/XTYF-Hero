@@ -1,0 +1,17 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "dvc_motor_DM.C": "cpp",
+            "booster_dm.h": "c",
+            "dvc_motor_dm.h": "c",
+            "drv_can.h": "c",
+            "chassis.h": "c"
+        }
+    },
+    "extensions": {}
+}

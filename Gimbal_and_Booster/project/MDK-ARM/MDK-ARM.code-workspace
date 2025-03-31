@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "master.h": "c",
+            "drv_usart.h": "c",
+            "dvc_dr16.h": "c",
+            "gimbal.h": "c",
+            "string.h": "c",
+            "dvc_motor_lk.h": "c",
+            "drv_math.h": "c"
+        }
+    },
+    "extensions": {}
+}
